@@ -3,9 +3,9 @@
 ## Project Description:
 
 **Rocket Royal** is a Third-Person Shooter **Deathmatch** in 2V2! <br>
-This game was made with **Unreal Engine**.
+This game was made with **Unreal Engine**. 
 
-<br />
+<br>
 
 ## Preview:
 <img src="https://user-images.githubusercontent.com/122649492/227249113-200a30dd-7427-49c0-b1db-b18b71bdb7db.png" style="width:700px;"/>
@@ -54,7 +54,7 @@ This game was made with **Unreal Engine**.
 <br />
 <hr />
 
-Authors : **Matias HÉNO**, **Bruno GOMES**, **Florestan MAZURIÉ**, **Laurent LIN**
+Authors : **Matias HÉNO** | **Bruno GOMES** | **Florestan MAZURIÉ** | **Laurent LIN**
 
 For [ISART Digital](https://www.isart.com)
 
