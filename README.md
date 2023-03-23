@@ -9,11 +9,14 @@
 
 ## Preview:
 <img src="https://user-images.githubusercontent.com/122649492/227249113-200a30dd-7427-49c0-b1db-b18b71bdb7db.png" style="width:700px;"/>
+
 🔅 ### Lobby
 <img src="https://user-images.githubusercontent.com/122649492/227253552-2f890b35-50a4-4a7c-80c2-4c1dd8409b21.gif" style="width:700px;"/>
+
 🔅  ### Game
 <img src="https://user-images.githubusercontent.com/122649492/227253742-56226bbc-b54a-4848-863f-2d6dedc77ad9.jpg" style="width:700px;"/>
-🔅  ### Map 'Anubis'
+
+### 🔅 Map 'Anubis'
 <img src="https://user-images.githubusercontent.com/122649492/227248531-164817e6-1c32-4d25-8daa-c41de678c69f.jpg" style="width:700px;"/>
 
 <br />
@@ -34,7 +37,7 @@ Game:
 - Shoot → ```R1```
 - Ultimate → ```SQUARE```
 
-🖱️: **Mouse & Keyboard**:
+🖱️ **Mouse & Keyboard**:
 
 Menu:
 - Join Lobby → ```Left Shift```
