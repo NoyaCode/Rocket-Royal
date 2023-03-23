@@ -3,7 +3,7 @@
 ## Project Description:
 
 **Rocket Royal** is a Third-Person Shooter **Deathmatch** in 2V2! <br>
-
+This game was made with **Unreal Engine**.
 
 <br />
 
@@ -24,27 +24,27 @@
 
 ## Controls:
 
-🎮 **Controller** (PlayStation)
+### 🎮 Controller (PlayStation)
 
-Menu:
+**Menu**:
 - Change Team → ```L1```/```R1```
 - Ready → ```CROSS```
 
-Game:
+**Game**:
 - Move → ```Left Joystick```
 - Jump → ```CROSS```
 - Aim → ```Right Joystick```
 - Shoot → ```R1```
 - Ultimate → ```SQUARE```
 
-🖱️ **Mouse & Keyboard**:
+### 🖱️ Mouse & Keyboard:
 
-Menu:
+**Menu**:
 - Join Lobby → ```Left Shift```
 - Change Team → ```E```
 - Ready → ```Space```
 
-Game:
+**Game**:
 - Move → ```WASD```
 - Jump → ```Space```
 - Shoot → ```Left Mouse Button```
