@@ -5,7 +5,7 @@
 **Rocket Royal** is a Third-Person Shooter **Deathmatch** in 2V2! <br>
 This game was made with **Unreal Engine**. 
 
-<br>
+<br />
 
 ## Preview:
 <img src="https://user-images.githubusercontent.com/122649492/227249113-200a30dd-7427-49c0-b1db-b18b71bdb7db.png" style="width:700px;"/>
@@ -20,7 +20,6 @@ This game was made with **Unreal Engine**.
 <img src="https://user-images.githubusercontent.com/122649492/227248531-164817e6-1c32-4d25-8daa-c41de678c69f.jpg" style="width:700px;"/>
 
 <br />
-
 
 ## Controls:
 
