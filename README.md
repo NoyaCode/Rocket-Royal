@@ -58,3 +58,7 @@ Authors : **Matias HÉNO** | **Bruno GOMES** | **Florestan MAZURIÉ** | **Lauren
 For [ISART Digital](https://www.isart.com)
 
 <hr />
+
+Assets : 
+- [Stylized Character Kit: Casual 01](https://www.unrealengine.com/marketplace/en-US/product/stylized-male-character-kit-casual)
+- [Stylized Egypt](https://www.unrealengine.com/marketplace/en-US/product/stylized-egypt)
