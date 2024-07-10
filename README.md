@@ -53,7 +53,7 @@ This game was made with **Unreal Engine**.
 <br />
 <hr />
 
-Authors : **Matias HÉNO** | **Bruno GOMES** | **Florestan MAZURIÉ** | **Laurent LIN**
+Authors : **Matias HÉNO** | **Bruno GOMES** | **Laurent LIN**
 
 For [ISART Digital](https://www.isart.com)
 
